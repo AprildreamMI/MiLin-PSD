@@ -1,4 +1,5 @@
 ## 项目说明
+> 关于密林的HTML页面，请移步[密林手作工作室](https://github.com/AprildreamMI/milin)
 ### MiLin-PSD
 此项目是密林手作工作室的PSD原稿😎
 > 密林手作工作室是一个综合性的艺术工作室
